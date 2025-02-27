@@ -62,7 +62,7 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 
 
 <p>
-<img src="https://github.com/user-attachments/assets/37fd5f61-b237-418e-bc74-fcca6ad9fd8c" height="200%" width="200%"</p>
+<img src="https://github.com/user-attachments/assets/37fd5f61-b237-418e-bc74-fcca6ad9fd8c"</p>
 
 <p>Create directory on C drive and name it PHP</p>
 <br />
@@ -71,7 +71,7 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 
 
 <p>
-<img src="https://github.com/user-attachments/assets/d28ac334-3cec-4424-8a43-9ee6441164ee" height="200%" width="200%"</p>
+<img src="https://github.com/user-attachments/assets/d28ac334-3cec-4424-8a43-9ee6441164ee"</p>
 
 <p>Extract PHP 7.3.8 to folder we previously created in order to install the PHP language binaries</p>
 <br />
@@ -79,7 +79,7 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 
 
 <p>
-<img src="https://github.com/user-attachments/assets/5bb51aa5-605c-4a4f-b5a4-8ae0674c7deb" height="200%" width="200%"</p>
+<img src="https://github.com/user-attachments/assets/5bb51aa5-605c-4a4f-b5a4-8ae0674c7deb"</p>
 
 <p>Install Visual C++ redistributable (x86) package</p>
 <br />
@@ -88,7 +88,7 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 
 
 <p>
-<img src="https://github.com/user-attachments/assets/23be52d4-ba2a-4458-a0e3-4118379dd2c6" height="200%" width="200%"</p>
+<img src="https://github.com/user-attachments/assets/23be52d4-ba2a-4458-a0e3-4118379dd2c6"</p>
 
 <p>Install MySQL (osTicket uses this to store data)</p>
 <br />
@@ -96,7 +96,7 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 
 
 <p>
-<img src="https://github.com/user-attachments/assets/3d730a48-7ace-4160-adf1-b125476d55ac" height="200%" width="200%"</p>
+<img src="https://github.com/user-attachments/assets/3d730a48-7ace-4160-adf1-b125476d55ac"</p> 
 
 <p>Choose standard configuration while installing MySQL</p>
 <br />
@@ -104,7 +104,7 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 
 
 <p>
-<img src="https://github.com/user-attachments/assets/c6e0563c-a1ba-4379-a272-305a45ab75c5" height="200%" width="200%"</p>
+<img src="https://github.com/user-attachments/assets/c6e0563c-a1ba-4379-a272-305a45ab75c5"</p>
 
 <p>Open IIS as an admin</p>
 <br />
@@ -112,7 +112,11 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 
 
 
+<p>
+<img src=""</p>
 
+<p>Register PHP from within IIS</p>
+<br />
 
 
 
