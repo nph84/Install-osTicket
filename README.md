@@ -49,7 +49,6 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 
 
 
-
 <p>
 <img src="https://github.com/user-attachments/assets/93d049d6-08fa-4ee9-a492-98b7a704d937" height="200%" width="200%"</p>
 
@@ -57,7 +56,11 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 <br />
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/37fd5f61-b237-418e-bc74-fcca6ad9fd8c" height="200%" width="200%"</p>
 
+<p>Create directory on C drive and name it PHP</p>
+<br />
 
 
 
