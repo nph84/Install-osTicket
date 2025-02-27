@@ -68,12 +68,16 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 <p>
 <img src="https://github.com/user-attachments/assets/d28ac334-3cec-4424-8a43-9ee6441164ee" height="200%" width="200%"</p>
 
-<p>Extract PHP 7.3.8 to folder we previously created</p>
+<p>Extract PHP 7.3.8 to folder we previously created in order to install the PHP language binaries</p>
 <br />
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/5bb51aa5-605c-4a4f-b5a4-8ae0674c7deb" height="200%" width="200%"</p>
 
+<p>Install Visual C++ redistributable (x86) package</p>
+<br />
 
 
 
