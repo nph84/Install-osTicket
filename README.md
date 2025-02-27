@@ -82,7 +82,11 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/23be52d4-ba2a-4458-a0e3-4118379dd2c6" height="200%" width="200%"</p>
 
+<p>Install MySQL (osTicket uses this to store data)</p>
+<br />
 
 
 
