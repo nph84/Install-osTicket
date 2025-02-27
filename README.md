@@ -12,6 +12,11 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 - Remote Desktop
 - osTicket system
 - Internet Information Services (IIS)
+- PHP 7.3.8
+- PHP manager for IIs
+- rewrite module
+- MySQL
+- Visual C++
 
 <h2>Operating Systems Used </h2>
 
