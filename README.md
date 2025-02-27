@@ -32,5 +32,55 @@ This tutorial outlines the steps to observe RDP traffic.<br />
 <img src="https://github.com/user-attachments/assets/d180b1c5-ad12-45bc-ae5c-2e0fc6895c2c" height="200%" width="200%"
   </p>
 
-<p>Connect via remote desktop </p>
+<p>install PHP manager for IIS</p>
 <br />
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/d180b1c5-ad12-45bc-ae5c-2e0fc6895c2c" height="200%" width="200%"
+  </p>
+
+<p>install Rewrite module</p>
+<br />
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/d180b1c5-ad12-45bc-ae5c-2e0fc6895c2c" height="200%" width="200%"
+  </p>
+
+<p>install VC_redist.x86.exe</p>
+<br />
+
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/d180b1c5-ad12-45bc-ae5c-2e0fc6895c2c" height="200%" width="200%"
+  </p>
+
+<p>install MySQL 5.5.62</p>
+<br />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
