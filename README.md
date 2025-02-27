@@ -113,13 +113,18 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 
 
 <p>
-<img src=""</p>
+<img src="https://github.com/user-attachments/assets/f6558a7a-71de-4935-a056-471bca0cf011"</p>
 
 <p>Register PHP from within IIS</p>
 <br />
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/d7a1eb20-65eb-4b36-90db-110952fa86c1"</p>
+
+<p>After double-clicking on PHP manager from within IIS, click "Register new PHP version", browse to previously created PHP folder, and select php-cgi application</p>
+<br />
 
 
 
