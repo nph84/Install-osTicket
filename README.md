@@ -35,15 +35,26 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 
 
 <p>
-<img src="https://github.com/user-attachments/assets/2f463296-64c4-452e-981f-0b85263fa6a6"200%" width="200%"</p>
+<img src="https://github.com/user-attachments/assets/2f463296-64c4-452e-981f-0b85263fa6a6" height="200%" width="200%"</p>
 
 <p>navigate to windows features and turn on CGI under internet information services>application development features dropdown menus</p>
 <br />
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/53bb1463-b491-4dcd-a5e2-bd259d2288d4" height="200%" width="200%"</p>
+
+<p>Install PHP manager for IIS</p>
+<br />
 
 
 
+
+<p>
+<img src="https://github.com/user-attachments/assets/93d049d6-08fa-4ee9-a492-98b7a704d937" height="200%" width="200%"</p>
+
+<p>Install rewrite module</p>
+<br />
 
 
 
