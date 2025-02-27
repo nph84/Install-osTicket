@@ -27,44 +27,18 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 
 
 <p>
-<img src="https://github.com/user-attachments/assets/d180b1c5-ad12-45bc-ae5c-2e0fc6895c2c" height="200%" width="200%"</p>
-<p>install PHP manager for IIS</p>
-<br />
+<img src="https://github.com/user-attachments/assets/9f6b0518-1811-4e7b-ba2c-c01dcaf9dc42" height="200%" width="200%"</p>
 
-
-
-
-<p>
-<img src="https://github.com/user-attachments/assets/d180b1c5-ad12-45bc-ae5c-2e0fc6895c2c" height="200%" width="200%"</p>
-<p>install PHP manager for IIS</p>
-<br />
-
-
-<p>
-<img src="https://github.com/user-attachments/assets/d180b1c5-ad12-45bc-ae5c-2e0fc6895c2c" height="200%" width="200%"
-  </p>
-
-<p>install Rewrite module</p>
-<br />
-
-
-<p>
-<img src="https://github.com/user-attachments/assets/d180b1c5-ad12-45bc-ae5c-2e0fc6895c2c" height="200%" width="200%"
-  </p>
-
-<p>install VC_redist.x86.exe</p>
+<p>download osTicket installation zip file and unzip folder</p>
 <br />
 
 
 
 <p>
-<img src="https://github.com/user-attachments/assets/d180b1c5-ad12-45bc-ae5c-2e0fc6895c2c" height="200%" width="200%"
-  </p>
+<img src="https://github.com/user-attachments/assets/2f463296-64c4-452e-981f-0b85263fa6a6"200%" width="200%"</p>
 
-<p>install MySQL 5.5.62</p>
+<p>navigate to windows features and turn on CGI under internet information services>application development features dropdown menus</p>
 <br />
-
-
 
 
 
