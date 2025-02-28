@@ -174,7 +174,12 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/a1ca5808-7057-4cfd-b708-52f676538ab7"</p>
+<img src="https://github.com/user-attachments/assets/893ebb14-f7f3-4c49-8b56-2f4268e64119"</p>
 
+<p>Open PHP manager under osTicket subfolder and enable PHP extension</p>
+<br />
 
 
 
