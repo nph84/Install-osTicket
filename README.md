@@ -14,7 +14,7 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 - Internet Information Services (IIS)
 - PHP 7.3.8
 - PHP manager for IIs
-- rewrite module
+- Rewrite module
 - MySQL
 - Visual C++
 
@@ -34,7 +34,7 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 <p>
 <img src="https://github.com/user-attachments/assets/9f6b0518-1811-4e7b-ba2c-c01dcaf9dc42"</p>
 
-<p>download osTicket installation zip file and unzip folder</p>
+<p> Download osTicket installation zip file and unzip folder</p>
 <br />
 
 
@@ -42,7 +42,7 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 <p>
 <img src="https://github.com/user-attachments/assets/2f463296-64c4-452e-981f-0b85263fa6a6"</p>
 
-<p>navigate to windows features and turn on CGI under internet information services>application development features dropdown menus</p>
+<p> Navigate to windows features and turn on CGI under internet information services>application development features dropdown menus</p>
 <br />
 
 
@@ -64,7 +64,7 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 <p>
 <img src="https://github.com/user-attachments/assets/37fd5f61-b237-418e-bc74-fcca6ad9fd8c"</p>
 
-<p>Create directory on C drive and name it PHP</p>
+<p>Create a directory on C drive and name it PHP</p>
 <br />
 
 
@@ -73,7 +73,7 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 <p>
 <img src="https://github.com/user-attachments/assets/d28ac334-3cec-4424-8a43-9ee6441164ee"</p>
 
-<p>Extract PHP 7.3.8 to folder we previously created in order to install the PHP language binaries</p>
+<p>Extract PHP 7.3.8 to the folder we previously created in order to install the PHP language binaries</p>
 <br />
 
 
@@ -158,7 +158,7 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 <p>
 <img src="https://github.com/user-attachments/assets/a9b5d718-3598-4fad-a9c1-febb6a391715"</p>
 
-<p>After stopping and starting server navigate to Sites>Default Web Site>osTicket and click on "Browse" on the right side of the screen</p>
+<p>After stopping and starting server, navigate to Sites>Default Web Site>osTicket and click on "Browse" on the right side of the screen</p>
 <br />
 
 
@@ -166,7 +166,7 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 <p>
 <img src="https://github.com/user-attachments/assets/6b0e9b22-21eb-4a5f-91bd-5f909655bf4e"</p>
 
-<p>At this point the osTicket installer should open up</p>
+<p>At this point, the osTicket installer should open up</p>
 <br />
 
 
@@ -202,7 +202,7 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 <p>
 <img src="https://github.com/user-attachments/assets/ae65ba79-35a8-4c34-ba0d-94e8cf1ad441"</p>
 
-<p>Right click on properties of ost-config.php file, got to security tab, click advanced, click disable inheritance to remove all inherited permissions</p>
+<p> Right-click on properties of ost-config.php file, got to security tab, click advanced, click disable inheritance to remove all inherited permissions</p>
 <br />
 
 
@@ -210,7 +210,7 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 <p>
 <img src="https://github.com/user-attachments/assets/9406c331-1d6f-4589-8ee6-8ae5b36ccd1e"</p>
 
-<p>After removing all inherited permissions, lets add new permissions. Click on select a principal, and type Everyone in the box just for the purposes of this exercise since we don't know what user osTicket will represent. We will give the user full control. Now osTicket has full of the configuration file.</p>
+<p>After removing all inherited permissions, let's add new permissions. Click on select a principal, and type Everyone in the box just for the purposes of this exercise since we don't know what user osTicket will represent. We will give the user full control. Now osTicket has full of the configuration file.</p>
 <br />
 
 
@@ -226,7 +226,7 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 <p>
 <img src="https://github.com/user-attachments/assets/b11d00a4-173f-491e-867e-91a3464dcbef"</p>
 
-<p>Navigate to osTicket-Installation-Files installation folder and install HeidiSQL which allows us to connect and configure the database</p>
+<p>Navigate to osTicket-Installation-Files installation folder and install HeidiSQL, which allows us to connect and configure the database</p>
 <br />
 
 
@@ -235,14 +235,14 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 <p>
 <img src="https://github.com/user-attachments/assets/b11d00a4-173f-491e-867e-91a3464dcbef"</p>
 
-<p>We will use HeidiSQ to make a connection to our database and set up a database for osTicket to use then, we can use this information to fill out the bottom of the basic installation form.</p>
+<p>We will use HeidiSQ to make a connection to our database and set up a database for osTicket to use; then, we can use this information to fill out the bottom of the basic installation form.</p>
 <br />
 
 
 <p>
 <img src="https://github.com/user-attachments/assets/fc878c2a-df65-43c7-aef3-6947a2502984"</p>
 
-<p>Click new SQL, type in username and password credentials and click open to create a new session.</p>
+<p>Click new SQL, type in username and password credentials, and click open to create a new session.</p>
 <br />
 
 
@@ -267,7 +267,7 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 <p>
 <img src="https://github.com/user-attachments/assets/f1085e90-2be8-4388-8dc9-6690be3ddcf1"</p>
 
-<p>With osTicket HeidiSQL server created, we can complete the database settings part of the form in the browser</p>
+<p>With the osTicket HeidiSQL server created, we can complete the database settings part of the form in the browser</p>
 <br />
 
 
