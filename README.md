@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/0c9a5058-f465-477c-be11-3de15009f17b" height="350" width="350"
 </p>
 
-<h1>Install osTicket</h1>
+<h1>Installing osTicket</h1>
 This tutorial outlines the steps to install osTicket to a Windows 10 virtual machine.<br />
 
 
