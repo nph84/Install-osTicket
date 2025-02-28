@@ -215,6 +215,11 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/6a2899b0-608b-4c40-804c-71fffe740582"</p>
+
+<p>Continue filling out osTicket basic installation form </p>
+<br />
 
 
 
