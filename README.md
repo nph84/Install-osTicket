@@ -172,8 +172,6 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 
 
 
-
-
 <p>
 <img src="https://github.com/user-attachments/assets/a1ca5808-7057-4cfd-b708-52f676538ab7"</p>
 <img src="https://github.com/user-attachments/assets/893ebb14-f7f3-4c49-8b56-2f4268e64119"</p>
@@ -182,7 +180,11 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 <br />
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/233d4e77-ff42-4530-ac33-356465c8beae"</p>
 
+<p>Enable php_imap.dll, php_intl.dll, and php_opcache.dll</p>
+<br />
 
 
 
