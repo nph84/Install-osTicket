@@ -207,3 +207,15 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/9406c331-1d6f-4589-8ee6-8ae5b36ccd1e"</p>
+
+<p>After removing all inherited permissions, lets add new permissions. Click on select a principal, and type Everyone in the box just for the purposes of this lab since we don't know what user osTicket will represent. We will give the user full control. </p>
+<br />
+
+
+
+
+
+
+
