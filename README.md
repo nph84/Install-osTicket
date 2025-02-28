@@ -242,8 +242,24 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 <p>
 <img src="https://github.com/user-attachments/assets/fc878c2a-df65-43c7-aef3-6947a2502984"</p>
 
-<p>Click new SQL, type in username and password credentials and click open.</p>
+<p>Click new SQL, type in username and password credentials and click open to create a new session.</p>
 <br />
+
+
+
+<p>
+<img src="https://github.com/user-attachments/assets/5ab82e23-fafd-49cc-b6cc-3af5d34704af"</p>
+
+<p>Create a new database named osTicket</p>
+<br />
+
+
+
+
+
+
+
+
 
 
 
