@@ -255,7 +255,11 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/2a9bd714-03ea-4955-9969-84016dce02f3"</p>
 
+<p>osTicket database in HeidiSQL has been created</p>
+<br />
 
 
 
