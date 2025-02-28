@@ -189,7 +189,11 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/4a43aad9-1ea6-43f8-9488-f33f1d918048"</p>
 
+<p>Navigate to C:\inetpub\wwwroot\osTicket\include and rename ost-sampleconfig.php file to ost-config.php</p>
+<br />
 
 
 
