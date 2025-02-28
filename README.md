@@ -199,7 +199,11 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/ae65ba79-35a8-4c34-ba0d-94e8cf1ad441"</p>
 
+<p>Right click on properties of ost-config.php file, got to security tab, click advanced, click disable inheritance to remove all inherited permissions</p>
+<br />
 
 
 
