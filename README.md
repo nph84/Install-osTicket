@@ -239,3 +239,11 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 <br />
 
 
+<p>
+<img src="https://github.com/user-attachments/assets/fc878c2a-df65-43c7-aef3-6947a2502984"</p>
+
+<p>Click new SQL, type in username and password credentials and click open.</p>
+<br />
+
+
+
