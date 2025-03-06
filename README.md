@@ -26,23 +26,24 @@ This tutorial outlines the steps to install osTicket to a Windows 10 virtual mac
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://github.com/user-attachments/assets/d180b1c5-ad12-45bc-ae5c-2e0fc6895c2c"</p>
-<p>Retrieve public IP address of newly created virtual machine to connect via remote desktop</p>
+Retrieve the public IP address of the newly created virtual machine to connect via remote desktop <br /> <br />
+<img src="https://github.com/user-attachments/assets/d180b1c5-ad12-45bc-ae5c-2e0fc6895c2c" height="80%" width="80%"/>
+</p>
 <br />
 
 
 <p>
-<img src="https://github.com/user-attachments/assets/9f6b0518-1811-4e7b-ba2c-c01dcaf9dc42"</p>
-
-<p> Download osTicket installation zip file and unzip folder</p>
+Download osTicket installation zip file and unzip folder <br /> <br />
+<img src="https://github.com/user-attachments/assets/9f6b0518-1811-4e7b-ba2c-c01dcaf9dc42" height="80%" width="80%"/>
+</p>
 <br />
 
 
 
 <p>
-<img src="https://github.com/user-attachments/assets/2f463296-64c4-452e-981f-0b85263fa6a6"</p>
-
-<p> Navigate to windows features and turn on CGI under internet information services>application development features dropdown menus</p>
+Navigate to Windows features and turn on CGI under internet information services>application development features dropdown menus <br /> <br />
+<img src="https://github.com/user-attachments/assets/2f463296-64c4-452e-981f-0b85263fa6a6" height="80%" width="80%"/>
+</p>
 <br />
 
 
